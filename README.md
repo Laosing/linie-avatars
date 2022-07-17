@@ -13,6 +13,16 @@ Linie means line in German
 <img src="./icons/avatar-04.svg">
 <img src="./icons/avatar-05.svg">
 <img src="./icons/avatar-06.svg">
+<img src="./icons/avatar-07.svg">
+<img src="./icons/avatar-08.svg">
+<img src="./icons/avatar-09.svg">
+<img src="./icons/avatar-10.svg">
+<img src="./icons/avatar-11.svg">
+<img src="./icons/avatar-12.svg">
+<img src="./icons/avatar-13.svg">
+<img src="./icons/avatar-14.svg">
+<img src="./icons/avatar-15.svg">
+<img src="./icons/avatar-16.svg">
 </p>
 
 ### Installation
