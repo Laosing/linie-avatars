@@ -6,12 +6,14 @@ linie-avatars is a collection of simple line avatars for React.js. Each avatar i
 
 Linie means line in German
 
+<p align="middle">
 <img src="./icons/avatar-01.svg">
 <img src="./icons/avatar-02.svg">
 <img src="./icons/avatar-03.svg">
 <img src="./icons/avatar-04.svg">
 <img src="./icons/avatar-05.svg">
 <img src="./icons/avatar-06.svg">
+</p>
 
 ### Installation
 
