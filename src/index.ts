@@ -1,0 +1,16 @@
+export { default as Avatar01 } from './icons/avatar-01';
+export { default as Avatar02 } from './icons/avatar-02';
+export { default as Avatar03 } from './icons/avatar-03';
+export { default as Avatar04 } from './icons/avatar-04';
+export { default as Avatar05 } from './icons/avatar-05';
+export { default as Avatar06 } from './icons/avatar-06';
+export { default as Avatar07 } from './icons/avatar-07';
+export { default as Avatar08 } from './icons/avatar-08';
+export { default as Avatar09 } from './icons/avatar-09';
+export { default as Avatar10 } from './icons/avatar-10';
+export { default as Avatar11 } from './icons/avatar-11';
+export { default as Avatar12 } from './icons/avatar-12';
+export { default as Avatar13 } from './icons/avatar-13';
+export { default as Avatar14 } from './icons/avatar-14';
+export { default as Avatar15 } from './icons/avatar-15';
+export { default as Avatar16 } from './icons/avatar-16';

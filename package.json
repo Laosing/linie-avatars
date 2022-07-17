@@ -1,0 +1,45 @@
+{
+  "name": "linie-avatars",
+  "version": "0.1.0",
+  "description": "React component for line avatars",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
+  "typings": "dist/index.d.ts",
+  "scripts": {
+    "compile": "rm -rf src/icons && node bin/build.js",
+    "build": "rollup -c"
+  },
+  "files": [
+    "dist",
+    "es"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Laosing/linie-avatars.git"
+  },
+  "keywords": [
+    "react",
+    "icons",
+    "svg",
+    "design"
+  ],
+  "author": "Drew Rattana",
+  "license": "MIT",
+  "homepage": "https://github.com/Laosing/linie-avatars#readme",
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "devDependencies": {
+    "esbuild": "^0.14.49",
+    "rollup": "^2.77.0",
+    "rollup-plugin-dts": "^4.2.2",
+    "rollup-plugin-esbuild": "^4.9.1"
+  },
+  "peerDependencies": {},
+  "bugs": {
+    "url": "https://github.com/Laosing/linie-avatars/issues"
+  },
+  "bin": {
+    "linie-avatars": "bin/build.js"
+  }
+}
