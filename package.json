@@ -1,5 +1,5 @@
 {
-  "name": "linie-avatars",
+  "name": "@Laosing/linie-avatars",
   "version": "0.1.0",
   "description": "React component for line avatars",
   "main": "dist/index.js",
@@ -8,6 +8,9 @@
   "scripts": {
     "compile": "rm -rf src/icons && node bin/build.js",
     "build": "rollup -c"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
   },
   "files": [
     "dist",
