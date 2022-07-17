@@ -1,5 +1,5 @@
 {
-  "name": "@Laosing/linie-avatars",
+  "name": "@laosing/linie-avatars",
   "version": "0.1.0",
   "description": "React component for line avatars",
   "main": "dist/index.js",

@@ -7,37 +7,37 @@ linie-avatars is a collection of simple line avatars for React.js. Each avatar i
 Linie means line in German
 
 <p align="middle">
-<img src="./icons/avatar-01.svg">
-<img src="./icons/avatar-02.svg">
-<img src="./icons/avatar-03.svg">
-<img src="./icons/avatar-04.svg">
-<img src="./icons/avatar-05.svg">
-<img src="./icons/avatar-06.svg">
-<img src="./icons/avatar-07.svg">
-<img src="./icons/avatar-08.svg">
-<img src="./icons/avatar-09.svg">
-<img src="./icons/avatar-10.svg">
-<img src="./icons/avatar-11.svg">
-<img src="./icons/avatar-12.svg">
-<img src="./icons/avatar-13.svg">
-<img src="./icons/avatar-14.svg">
-<img src="./icons/avatar-15.svg">
-<img src="./icons/avatar-16.svg">
+<img src="https://raw.githubusercontent.com/Laosing/linie-avatars/90516a09893fb0a6df2c06246f198783128dac14/icons/avatar-01.svg">
+<img src="https://raw.githubusercontent.com/Laosing/linie-avatars/90516a09893fb0a6df2c06246f198783128dac14/icons/avatar-02.svg">
+<img src="https://raw.githubusercontent.com/Laosing/linie-avatars/90516a09893fb0a6df2c06246f198783128dac14/icons/avatar-03.svg">
+<img src="https://raw.githubusercontent.com/Laosing/linie-avatars/90516a09893fb0a6df2c06246f198783128dac14/icons/avatar-04.svg">
+<img src="https://raw.githubusercontent.com/Laosing/linie-avatars/90516a09893fb0a6df2c06246f198783128dac14/icons/avatar-05.svg">
+<img src="https://raw.githubusercontent.com/Laosing/linie-avatars/90516a09893fb0a6df2c06246f198783128dac14/icons/avatar-06.svg">
+<img src="https://raw.githubusercontent.com/Laosing/linie-avatars/90516a09893fb0a6df2c06246f198783128dac14/icons/avatar-07.svg">
+<img src="https://raw.githubusercontent.com/Laosing/linie-avatars/90516a09893fb0a6df2c06246f198783128dac14/icons/avatar-08.svg">
+<img src="https://raw.githubusercontent.com/Laosing/linie-avatars/90516a09893fb0a6df2c06246f198783128dac14/icons/avatar-09.svg">
+<img src="https://raw.githubusercontent.com/Laosing/linie-avatars/90516a09893fb0a6df2c06246f198783128dac14/icons/avatar-10.svg">
+<img src="https://raw.githubusercontent.com/Laosing/linie-avatars/90516a09893fb0a6df2c06246f198783128dac14/icons/avatar-11.svg">
+<img src="https://raw.githubusercontent.com/Laosing/linie-avatars/90516a09893fb0a6df2c06246f198783128dac14/icons/avatar-12.svg">
+<img src="https://raw.githubusercontent.com/Laosing/linie-avatars/90516a09893fb0a6df2c06246f198783128dac14/icons/avatar-13.svg">
+<img src="https://raw.githubusercontent.com/Laosing/linie-avatars/90516a09893fb0a6df2c06246f198783128dac14/icons/avatar-14.svg">
+<img src="https://raw.githubusercontent.com/Laosing/linie-avatars/90516a09893fb0a6df2c06246f198783128dac14/icons/avatar-15.svg">
+<img src="https://raw.githubusercontent.com/Laosing/linie-avatars/90516a09893fb0a6df2c06246f198783128dac14/icons/avatar-16.svg">
 </p>
 
 ### Installation
 
-    yarn add linie-avatars
+    yarn add @laosing/linie-avatars
 
 or
 
-    npm i linie-avatars
+    npm i @laosing/linie-avatars
 
 ### Usage
 
 ```javascript
 import React from "react"
-import { Avatar01 } from "linie-avatars"
+import { Avatar01 } from "@laosing/linie-avatars"
 
 const App = () => {
   return <Avatar01 />
@@ -56,7 +56,7 @@ You can also include the whole icon pack:
 
 ```javascript
 import React from "react"
-import * as Icon from "linie-avatars"
+import * as Icon from "@laosing/linie-avatars"
 
 const App = () => {
   return <Icon.Avatar01 />
