@@ -74,3 +74,7 @@ yarn compile
 ```bash
 yarn build
 ```
+
+## License
+
+MIT License
