@@ -1,4 +1,4 @@
-import React, { forwardRef, LegacyRef } from 'react';
+import React, { forwardRef, LegacyRef } from "react";
 
 type Props = {
   color?: string,
@@ -7,7 +7,7 @@ type Props = {
 type Ref = LegacyRef<SVGSVGElement> | undefined;
 
 const Avatar03 = forwardRef(
-  ({ color = 'currentColor', size = 24, ...rest }: Props, ref: Ref) => {
+  ({ color = "currentColor", size = 24, ...rest }: Props, ref: Ref) => {
     return (
       <svg
         ref={ref}
@@ -65,6 +65,6 @@ const Avatar03 = forwardRef(
   }
 );
 
-Avatar03.displayName = 'Avatar03';
+Avatar03.displayName = "Avatar03";
 
 export default Avatar03;
